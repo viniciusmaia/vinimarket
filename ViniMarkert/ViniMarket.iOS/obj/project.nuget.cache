@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "86/7Oskh7NmSv5pKdfqs1043TWgyHboDDb/VluqZTmc6VAJrlsVu8P6yhXJnrGoSR1TwsP+EO0ViRTGiB/pWiw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.iOS\\ViniMarket.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

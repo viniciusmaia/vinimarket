@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj": {}
+    "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj": {
+    "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj",
+        "projectUniqueName": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj",
         "projectName": "ViniMarkert.Core",
-        "projectPath": "D:\\Projetos\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj",
+        "projectPath": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarkert.Core\\ViniMarkert.Core.csproj",
         "packagesPath": "C:\\Users\\Vinícius Maia\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ViniMarkert\\ViniMarkert.Core\\obj\\",
+        "outputPath": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarkert.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -54,10 +54,6 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
-            },
-            "sqlite-net-pcl": {
-              "target": "Package",
-              "version": "[1.7.335, )"
             }
           },
           "imports": [

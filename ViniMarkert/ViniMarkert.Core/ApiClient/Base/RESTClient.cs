@@ -3,7 +3,6 @@ using Newtonsoft.Json.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ViniMarket.Core.ApiClient.Base
@@ -11,7 +10,7 @@ namespace ViniMarket.Core.ApiClient.Base
     public abstract class RESTClient
     {
 
-        public async Task<IList<T>> ObterItens<T>(string url)
+        protected async Task<IList<T>> ObterItens<T>(string url)
         {
             HttpResponseMessage responseMessage = await ExecutaRequisicaoGet(url);
 

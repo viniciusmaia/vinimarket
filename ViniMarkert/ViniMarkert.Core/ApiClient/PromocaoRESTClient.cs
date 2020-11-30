@@ -14,7 +14,7 @@ namespace ViniMarkert.Core.ApiClient
             _url = "https://pastebin.com/raw/R9cJFBtG";
         }
 
-        public Task<IList<Promocao>> ObterCategorias()
+        public Task<IList<Promocao>> ObterPromocoes()
         {
             return ObterItens<Promocao>(_url);
         }

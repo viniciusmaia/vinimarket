@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj": {}
+    "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj": {
+    "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj",
+        "projectUniqueName": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj",
         "projectName": "ViniMarket.Droid",
-        "projectPath": "D:\\Projetos\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj",
+        "projectPath": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.Droid\\ViniMarket.Droid.csproj",
         "packagesPath": "C:\\Users\\Vinícius Maia\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ViniMarkert\\ViniMarket.Droid\\obj\\",
+        "outputPath": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.Droid\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -50,13 +50,13 @@
               "target": "Package",
               "version": "[28.0.0.3, )"
             },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.5.3.2, )"
-            },
-            "sqlite-net-pcl": {
-              "target": "Package",
-              "version": "[1.7.335, )"
             }
           }
         }

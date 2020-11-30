@@ -1,0 +1,4 @@
+D:\Projetos\vinimarket\ViniMarkert\ViniMarkert.Core\obj\Debug\netstandard2.0\ViniMarkert.Core.csprojAssemblyReference.cache
+D:\Projetos\vinimarket\ViniMarkert\ViniMarkert.Core\obj\Debug\netstandard2.0\ViniMarkert.Core.AssemblyInfoInputs.cache
+D:\Projetos\vinimarket\ViniMarkert\ViniMarkert.Core\obj\Debug\netstandard2.0\ViniMarkert.Core.AssemblyInfo.cs
+D:\Projetos\vinimarket\ViniMarkert\ViniMarkert.Core\obj\Debug\netstandard2.0\ViniMarkert.Core.csproj.CoreCompileInputs.cache

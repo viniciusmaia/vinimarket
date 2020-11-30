@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.iOS\\ViniMarket.iOS.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.iOS\\ViniMarket.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.iOS\\ViniMarket.iOS.csproj",
+        "projectName": "ViniMarket.iOS",
+        "projectPath": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.iOS\\ViniMarket.iOS.csproj",
+        "packagesPath": "C:\\Users\\Vinícius Maia\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\vinimarket\\ViniMarkert\\ViniMarket.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinícius Maia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
